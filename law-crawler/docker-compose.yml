@@ -1,0 +1,34 @@
+# Khởi chạy các container ở chế độ nền (detached) và build lại nếu cần
+# Lệnh chạy: docker-compose up -d --build
+
+services:
+    # Dịch vụ MySQL (cơ sở dữ liệu)
+    law-mysql:
+        image: mysql:latest          # Sử dụng image MySQL mới nhất từ Docker Hub
+        ports:
+            - 3306:3306              # Mở cổng 3306 để có thể kết nối từ máy host
+        environment:                 # Thiết lập các biến môi trường cho MySQL
+            MYSQL_ROOT_PASSWORD: 123456  # Mật khẩu root
+            MYSQL_DATABASE: law          # Tên database sẽ được tạo mặc định
+            MYSQL_PASSWORD: 123456       # Mật khẩu cho người dùng (nếu cần mở rộng)
+        networks:
+            - app-network            # Kết nối container này vào mạng dùng chung
+
+    # Dịch vụ phpMyAdmin (giao diện quản lý MySQL qua web)
+    phpmyadmin:
+        image: phpmyadmin            # Sử dụng image chính thức phpMyAdmin
+        restart: always              # Tự động khởi động lại nếu container bị dừng
+        ports:
+            - 8081:80                # Truy cập phpMyAdmin tại http://localhost:8081
+        depends_on:
+            - law-mysql              # Khởi động sau khi MySQL đã sẵn sàng
+        networks:
+            - app-network            # Cùng mạng với MySQL để kết nối nội bộ
+        environment:
+            PMA_HOST: law-mysql      # Tên host của MySQL (trùng với tên service)
+            UPLOAD_LIMIT: 300M       # Tăng giới hạn upload file trong phpMyAdmin
+
+# Khai báo mạng dùng chung giữa các container
+networks:
+    app-network:
+        driver: bridge               # Dùng network kiểu "bridge" mặc định của Docker

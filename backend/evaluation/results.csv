@@ -1,0 +1,90 @@
+question,retrieval_rating,response_rating,chroma_time,retrieval_time,gemini_time,response_time
+Điều kiện để đăng ký kết hôn tại Việt Nam là gì?,95%,0%,1.1278300285339355,6.973337650299072,6.973337650299072,6.973337650299072
+Quy trình ly hôn đơn phương được thực hiện như thế nào?,75%,90%,0.12973356246948242,9.028453826904297,9.028453826904297,9.028453826904297
+Có thể kết hôn với người nước ngoài tại Việt Nam không?,95%,95%,0.14425110816955566,35.76966691017151,35.76966691017151,35.76966691017151
+Hôn nhân đồng giới có được pháp luật công nhận không?,100%,100%,0.1325068473815918,4.044677734375,4.044677734375,4.044677734375
+Người chưa đủ 18 tuổi có thể kết hôn không?,100%,100%,0.1094965934753418,2.915745735168457,2.915745735168457,2.915745735168457
+"Sau khi ly hôn, ai có quyền nuôi con?",95%,95%,0.13601946830749512,35.558966398239136,35.558966398239136,35.558966398239136
+Thời gian giải quyết thủ tục ly hôn mất bao lâu?,30%,95%,0.06142902374267578,5.521360635757446,5.521360635757446,5.521360635757446
+Có thể yêu cầu tòa án hủy hôn nhân trái pháp luật không?,100%,95%,0.14322519302368164,6.673969984054565,6.673969984054565,6.673969984054565
+Chế độ tài sản theo thỏa thuận trước hôn nhân có hợp pháp không?,85%,100%,0.1395857334136963,3.339975118637085,3.339975118637085,3.339975118637085
+Thủ tục nhận con nuôi tại Việt Nam như thế nào?,90%,75%,0.08471488952636719,7.628279209136963,7.628279209136963,7.628279209136963
+Những trường hợp không được kết hôn theo pháp luật Việt Nam?,100%,95%,0.12246441841125488,66.44752097129822,66.44752097129822,66.44752097129822
+Thủ tục thay đổi họ cho con sau ly hôn?,60%,95%,0.1423017978668213,6.473987817764282,6.473987817764282,6.473987817764282
+Quy định về quyền thăm nom con sau khi ly hôn?,0%,95%,0.13898515701293945,35.9192214012146,35.9192214012146,35.9192214012146
+Điều kiện để nhập quốc tịch Việt Nam là gì?,95%,95%,0.13811945915222168,6.197646617889404,6.197646617889404,6.197646617889404
+Người nước ngoài có thể giữ hai quốc tịch khi nhập quốc tịch Việt Nam không?,100%,75%,0.1116037368774414,3.17930006980896,3.17930006980896,3.17930006980896
+Quy trình từ bỏ quốc tịch Việt Nam cần những giấy tờ gì?,75%,95%,0.11930131912231445,67.2605631351471,67.2605631351471,67.2605631351471
+Trẻ em sinh ra tại Việt Nam có được cấp quốc tịch Việt Nam không?,95%,95%,0.14410686492919922,4.481751441955566,4.481751441955566,4.481751441955566
+Thời gian xét duyệt đơn xin nhập quốc tịch mất bao lâu?,0%,95%,0.13315486907958984,6.091342926025391,6.091342926025391,6.091342926025391
+Quy trình cấp giấy chứng nhận quốc tịch Việt Nam?,20%,75%,0.10672998428344727,37.40900683403015,37.40900683403015,37.40900683403015
+Người Việt Nam có thể nhập quốc tịch nước ngoài mà không mất quốc tịch Việt Nam không?,95%,90%,0.14999628067016602,4.764624357223511,4.764624357223511,4.764624357223511
+Trường hợp nào người nước ngoài có thể nhập tịch Việt Nam mà không cần từ bỏ quốc tịch cũ?,50%,95%,0.14350104331970215,4.191234111785889,4.191234111785889,4.191234111785889
+Có thể xin quốc tịch Việt Nam nếu có cha hoặc mẹ là người Việt Nam không?,95%,95%,0.14545869827270508,34.82043790817261,34.82043790817261,34.82043790817261
+Có thể thay đổi quốc tịch của trẻ em theo yêu cầu của cha mẹ không?,0%,85%,0.05504751205444336,3.9896161556243896,3.9896161556243896,3.9896161556243896
+Điều kiện để khôi phục quốc tịch Việt Nam?,0%,85%,0.05196523666381836,4.04889178276062,4.04889178276062,4.04889178276062
+Thủ tục cấp hộ chiếu Việt Nam lần đầu cho người đã có quốc tịch?,95%,95%,0.05599355697631836,6.804623603820801,6.804623603820801,6.804623603820801
+Điều kiện để công dân Việt Nam định cư ở nước ngoài được cấp lại quốc tịch?,90%,95%,0.07699465751647949,67.1243224143982,67.1243224143982,67.1243224143982
+Có thể từ bỏ quốc tịch Việt Nam nhưng vẫn giữ hộ khẩu không?,0%,100%,0.07690286636352539,4.0941362380981445,4.0941362380981445,4.0941362380981445
+Công dân Việt Nam có quyền từ chối nhập quốc tịch nước ngoài khi được cấp không?,85%,100%,0.07999086380004883,3.925067901611328,3.925067901611328,3.925067901611328
+Trường hợp nào mất quốc tịch Việt Nam mà không cần đơn từ bỏ?,85%,95%,0.07689905166625977,34.74036407470703,34.74036407470703,34.74036407470703
+Quy định về nhập tịch đối với người không có quốc tịch?,85%,95%,0.07685589790344238,7.536358594894409,7.536358594894409,7.536358594894409
+Có thể khiếu nại nếu bị từ chối nhập quốc tịch không?,85%,75%,0.060730934143066406,5.176920175552368,5.176920175552368,5.176920175552368
+Có thể nhập quốc tịch Việt Nam khi có vợ/chồng là người Việt không?,0%,95%,0.08217525482177734,66.32740211486816,66.32740211486816,66.32740211486816
+Có thể có quốc tịch Việt Nam nếu sinh ra ở Việt Nam nhưng bố mẹ là người nước ngoài không?,100%,95%,0.0907752513885498,5.249361753463745,5.249361753463745,5.249361753463745
+Có thể được miễn thủ tục nhập quốc tịch không?,20%,90%,0.08116579055786133,5.97440767288208,5.97440767288208,5.97440767288208
+Điều kiện để đăng ký kết hôn với người nước ngoài tại Việt Nam?,90%,95%,0.07499909400939941,39.35055756568909,39.35055756568909,39.35055756568909
+Có thể yêu cầu đổi họ cho con sau khi ly hôn và người nước ngoài tham gia không?,60%,90%,0.048003435134887695,8.738630056381226,8.738630056381226,8.738630056381226
+Thủ tục chuyển quốc tịch cho trẻ em khi cha mẹ là công dân Việt Nam và nước ngoài?,100%,95%,0.056443214416503906,7.784729957580566,7.784729957580566,7.784729957580566
+Quy trình nhận con nuôi quốc tế tại Việt Nam?,90%,85%,0.051952362060546875,37.674126386642456,37.674126386642456,37.674126386642456
+"Chồng tôi là người nước ngoài, tôi có thể làm thủ tục kết hôn tại Việt Nam không?",95%,95%,0.08497500419616699,6.566600322723389,6.566600322723389,6.566600322723389
+"Nếu tôi kết hôn với người nước ngoài, tôi có thể giữ quốc tịch Việt Nam không?",90%,95%,0.05601382255554199,4.272920370101929,4.272920370101929,4.272920370101929
+"Tôi và chồng muốn có tài sản riêng trong hôn nhân, chúng tôi cần làm gì?",100%,95%,0.06405019760131836,67.59790921211243,67.59790921211243,67.59790921211243
+"Chồng tôi muốn nhập quốc tịch Việt Nam, nhưng anh ấy chưa biết tiếng Việt, liệu có được không?",100%,90%,0.07895112037658691,4.225229501724243,4.225229501724243,4.225229501724243
+"Khi vợ chồng ly hôn, nếu con còn nhỏ, tôi có thể yêu cầu nuôi con không?",100%,95%,0.05287909507751465,6.171869993209839,6.171869993209839,6.171869993209839
+"Sau khi ly hôn, tôi có thể thay đổi họ cho con không?",75%,95%,0.057324886322021484,35.48114228248596,35.48114228248596,35.48114228248596
+"Chúng tôi đã đăng ký kết hôn ở nước ngoài, nhưng muốn làm thủ tục kết hôn tại Việt Nam. Cần phải làm gì?",30%,95%,0.05911684036254883,6.024875164031982,6.024875164031982,6.024875164031982
+"Nếu tôi muốn nhận con nuôi, nhưng tôi chưa kết hôn, liệu tôi có thể nhận nuôi không?",95%,95%,0.09578990936279297,5.960154056549072,5.960154056549072,5.960154056549072
+"Chồng tôi là người nước ngoài, chúng tôi có thể nhận con nuôi từ Việt Nam không?",95%,95%,0.05807018280029297,34.97584056854248,34.97584056854248,34.97584056854248
+"Sau khi kết hôn, tôi có quyền yêu cầu thay đổi tài sản chung thành tài sản riêng không?",85%,95%,0.05498242378234863,5.702320337295532,5.702320337295532,5.702320337295532
+"Tôi đang sống cùng chồng người nước ngoài ở Việt Nam, tôi có quyền làm thủ tục nhập quốc tịch Việt Nam không?",85%,85%,0.06333589553833008,4.898333787918091,4.898333787918091,4.898333787918091
+"Khi có tranh chấp về tài sản trong hôn nhân, tòa án sẽ phân chia tài sản như thế nào?",95%,95%,0.06011629104614258,7.081004619598389,7.081004619598389,7.081004619598389
+"Nếu một người nước ngoài kết hôn với công dân Việt Nam, họ có thể nhập quốc tịch Việt Nam không?",0%,95%,0.04788017272949219,66.4004590511322,66.4004590511322,66.4004590511322
+"Tôi muốn từ bỏ quốc tịch Việt Nam, có thể giữ hộ khẩu không?",85%,95%,0.05096793174743652,4.142382860183716,4.142382860183716,4.142382860183716
+"Vợ chồng tôi muốn nhập quốc tịch Việt Nam, nhưng chưa biết tiếng Việt, có cần học tiếng Việt không?",85%,85%,0.0678865909576416,4.567233085632324,4.567233085632324,4.567233085632324
+"Vợ chồng tôi ly hôn, tôi có quyền yêu cầu cấp dưỡng cho con không?",100%,95%,0.06232261657714844,35.58045792579651,35.58045792579651,35.58045792579651
+"Chồng tôi là người nước ngoài, tôi có thể nhập quốc tịch Việt Nam sau khi kết hôn không?",90%,95%,0.05900168418884277,4.976270914077759,4.976270914077759,4.976270914077759
+"Tôi và vợ đã ly hôn, liệu tôi có thể yêu cầu chia tài sản chung không?",95%,95%,0.058908939361572266,6.1305248737335205,6.1305248737335205,6.1305248737335205
+"Chúng tôi đã kết hôn ở Việt Nam, nhưng muốn sống ở nước ngoài, liệu tôi có thể giữ quốc tịch Việt Nam không?",0%,95%,0.06490325927734375,34.332857847213745,34.332857847213745,34.332857847213745
+"Chồng tôi muốn lấy quốc tịch Việt Nam, tôi có thể giúp anh ấy không?",100%,90%,0.050832271575927734,36.156334400177,36.156334400177,36.156334400177
+"Nếu tôi kết hôn với người nước ngoài, con tôi có thể có hai quốc tịch không?",95%,95%,0.06642413139343262,5.467314958572388,5.467314958572388,5.467314958572388
+"Chúng tôi muốn thay đổi họ cho con sau khi ly hôn, cần làm thủ tục gì?",85%,95%,0.06845355033874512,5.978877067565918,5.978877067565918,5.978877067565918
+"Khi vợ chồng ly hôn, nếu con dưới 3 tuổi, tôi có thể yêu cầu quyền nuôi con không?",100%,95%,0.06885242462158203,35.93343925476074,35.93343925476074,35.93343925476074
+"Tôi muốn kết hôn với người nước ngoài, nhưng anh ấy không biết tiếng Việt, liệu có gặp vấn đề gì không?",95%,90%,0.07998204231262207,6.010016918182373,6.010016918182373,6.010016918182373
+"Sau khi ly hôn, tôi có thể yêu cầu thay đổi quyền giám hộ của con không?",95%,95%,0.059935808181762695,36.53514742851257,36.53514742851257,36.53514742851257
+"Nếu tôi và vợ ly hôn, ai sẽ có quyền sở hữu nhà đất mà chúng tôi đã mua chung?",20%,95%,0.10843920707702637,6.134051084518433,6.134051084518433,6.134051084518433
+"Tôi đã kết hôn với người nước ngoài, con chúng tôi có thể mang quốc tịch Việt Nam không?",95%,95%,0.13388466835021973,4.675185918807983,4.675185918807983,4.675185918807983
+Chúng tôi có thể kết hôn tại Việt Nam mà không cần có giấy tờ từ nước ngoài không?,90%,95%,0.13596439361572266,5.517612457275391,5.517612457275391,5.517612457275391
+"Chồng tôi là người nước ngoài, tôi có thể làm thủ tục nhập quốc tịch Việt Nam không?",100%,95%,0.15080833435058594,65.63014769554138,65.63014769554138,65.63014769554138
+"Vợ tôi là người nước ngoài, tôi có quyền yêu cầu cấp dưỡng sau khi ly hôn không?",75%,95%,0.15259814262390137,5.636896133422852,5.636896133422852,5.636896133422852
+"Nếu người nước ngoài muốn kết hôn với tôi, liệu họ có cần phải học tiếng Việt không?",75%,95%,0.1488170623779297,5.423786878585815,5.423786878585815,5.423786878585815
+"Tôi muốn khôi phục quốc tịch Việt Nam, có cần phải xin lại giấy chứng nhận quốc tịch không?",95%,95%,0.09526228904724121,34.401923179626465,34.401923179626465,34.401923179626465
+"Chúng tôi kết hôn với người nước ngoài và sống ở Việt Nam, tôi có thể có quốc tịch của hai nước không?",95%,85%,0.15732574462890625,5.942330360412598,5.942330360412598,5.942330360412598
+"Sau khi ly hôn, tôi có thể yêu cầu cấp dưỡng cho con nếu cha không thực hiện nghĩa vụ không?",95%,95%,0.13700652122497559,5.885544776916504,5.885544776916504,5.885544776916504
+Tôi có thể thay đổi họ cho con nếu cha mẹ không đồng ý không?,30%,90%,0.14947938919067383,67.21003675460815,67.21003675460815,67.21003675460815
+"Tôi muốn nhận con nuôi từ nước ngoài, cần làm những thủ tục gì?",95%,85%,0.13716959953308105,7.009549617767334,7.009549617767334,7.009549617767334
+"Chúng tôi muốn làm thủ tục kết hôn ở Việt Nam nhưng không có giấy chứng nhận độc thân từ nước ngoài, có được không?",95%,95%,0.16605830192565918,5.236750364303589,5.236750364303589,5.236750364303589
+"Khi vợ chồng ly hôn, có thể yêu cầu thay đổi người trực tiếp nuôi con không?",100%,95%,0.15972423553466797,36.83123254776001,36.83123254776001,36.83123254776001
+Con tôi có thể yêu cầu cấp dưỡng từ tôi sau khi tôi ly hôn không?,95%,95%,0.1418757438659668,5.419159650802612,5.419159650802612,5.419159650802612
+"Tình huống: Công ty E và công ty F có một tranh chấp thương mại và đã quyết định giải quyết thông qua trọng tài. Tuy nhiên, trong quá trình trọng tài, một trong những bên đã vi phạm các quy định của trọng tài. Câu hỏi: Những hậu quả pháp lý nào có thể xảy ra khi một bên vi phạm các quy định của trọng tài trong quá trình giải quyết tranh chấp?",90%,90%,0.276806116104126,9.871249437332153,9.871249437332153,9.871249437332153
+"Tình huống: Một quản tài viên đã không tuân thủ các quy định về vệ sinh và an toàn trong quá trình chuẩn bị cho một tang lễ, dẫn đến sự lây lan của một căn bệnh truyền nhiễm. Câu hỏi: Quản tài viên có thể bị truy cứu trách nhiệm hình sự không và nếu có, theo điều khoản nào của Bộ luật Hình sự?",90%,85%,0.26850366592407227,38.48745155334473,38.48745155334473,38.48745155334473
+Tình huống: Một quản tài viên đã từ chối cung cấp dịch vụ cho một gia đình vì lý do cá nhân. Câu hỏi: Việc từ chối cung cấp dịch vụ có phải là vi phạm pháp luật không và quản tài viên có thể phải đối mặt với hậu quả pháp lý nào?,10%,85%,0.23471570014953613,5.349327325820923,5.349327325820923,5.349327325820923
+"Tình huống: Công ty A và công ty B có một tranh chấp thương mại liên quan đến việc giao hàng trễ. Công ty A muốn giải quyết tranh chấp thông qua hòa giải thương mại thay vì đi tới tòa án. Câu hỏi: Trong trường hợp này, công ty A cần chuẩn bị những gì để tiến hành quá trình hòa giải thương mại?",90%,95%,0.27065253257751465,69.28401350975037,69.28401350975037,69.28401350975037
+"Tình huống: Sau khi hoàn thành quá trình hòa giải thương mại, công ty C nhận ra rằng họ không hài lòng với kết quả. Câu hỏi: Công ty C có quyền nào để kháng cáo hoặc yêu cầu xem xét lại kết quả hòa giải thương mại?",10%,90%,0.24491143226623535,6.065819978713989,6.065819978713989,6.065819978713989
+"Tình huống: Trong quá trình hòa giải thương mại giữa công ty D và công ty E, một trong những bên đã vi phạm các điều khoản của thỏa thuận hòa giải. Câu hỏi: Điều gì sẽ xảy ra nếu một bên vi phạm các điều khoản của thỏa thuận hòa giải trong quá trình hòa giải thương mại?",95%,90%,0.23578166961669922,5.919482469558716,5.919482469558716,5.919482469558716
+"Tình huống: Bạn là một doanh nghiệp nhỏ mới thành lập và muốn hiểu rõ hơn về quy định pháp luật liên quan đến việc thuê nhân viên.Câu hỏi: Theo quy định của pháp luật Việt Nam, những điều kiện nào cần được đáp ứng khi thuê một nhân viên?",10%,75%,0.2329730987548828,38.74025201797485,38.74025201797485,38.74025201797485
+"Tình huống: Bạn là một người dân tình cờ phát hiện ra một hoạt động kinh doanh trái phép trong khu vực của mình.Câu hỏi: Trong trường hợp phát hiện hoạt động kinh doanh trái phép, bạn có quyền và nghĩa vụ gì theo quy định của pháp luật?",85%,95%,0.2206859588623047,6.520564317703247,6.520564317703247,6.520564317703247
+"Tình huống: Bạn là một người tiêu dùng đã mua một sản phẩm hỏng từ một cửa hàng trực tuyến và muốn biết quyền lợi của mình.Câu hỏi: Khi mua hàng trực tuyến, nếu sản phẩm bị hỏng hoặc không giống như mô tả, bạn có quyền được đổi trả hàng theo quy định của pháp luật như thế nào?",85%,85%,0.22391414642333984,7.071096181869507,7.071096181869507,7.071096181869507
+"Tình huống: Anh Bình, người có quyền nuôi con sau khi ly hôn, muốn cho con gái mình, bé Nhi, được theo học ở nước ngoài. Tuy nhiên, cựu vợ anh không đồng ý với quyết định này. Anh Bình có quyền đưa ra quyết định này mà không cần sự đồng ý của cựu vợ không?",85%,95%,0.20839428901672363,36.73794078826904,36.73794078826904,36.73794078826904
+"Nếu tôi muốn nhập quốc tịch Việt Nam, tôi cần đáp ứng điều kiện gì?",95%,95%,0.1493816375732422,6.089719295501709,6.089719295501709,6.089719295501709
+Tổng kết,75.05681818181819%,91.30681818181819%,0.1253920685161244,18.926036685705185,18.926036685705185,18.926036685705185

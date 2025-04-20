@@ -1,0 +1,36 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+.perspective-1000 {
+  perspective: 1000px;
+}
+.perspective-2000 {
+  perspective: 2000px;
+}
+.transform-gpu {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+.translate-z-16 {
+  transform: translateZ(16px);
+}
+.translate-z-24 {
+  transform: translateZ(24px);
+}
+.translate-z-32 {
+  transform: translateZ(32px);
+}
+.translate-z-48 {
+  transform: translateZ(48px);
+}
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) translateZ(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-20px) translateZ(20px) rotate(10deg);
+  }
+}
+.animate-float {
+  animation: float 15s infinite ease-in-out;
+}

@@ -1,0 +1,90 @@
+question,gemini_rag_rating,llama_no_rag_rating,gemini_rag_time,llama_no_rag_time
+Điều kiện để đăng ký kết hôn tại Việt Nam là gì?,95.0,90.0,5.1440863609313965,2.358760118484497
+Quy trình ly hôn đơn phương được thực hiện như thế nào?,95.0,85.0,5.932786464691162,1.544468641281128
+Có thể kết hôn với người nước ngoài tại Việt Nam không?,95.0,100.0,3.8839259147644043,1.5091516971588135
+Hôn nhân đồng giới có được pháp luật công nhận không?,100.0,75.0,2.838336706161499,1.6197786331176758
+Người chưa đủ 18 tuổi có thể kết hôn không?,95.0,100.0,3.041499376296997,1.7012972831726074
+"Sau khi ly hôn, ai có quyền nuôi con?",95.0,75.0,65.67958760261536,1.6754095554351807
+Thời gian giải quyết thủ tục ly hôn mất bao lâu?,95.0,85.0,3.9340922832489014,1.4186782836914062
+Có thể yêu cầu tòa án hủy hôn nhân trái pháp luật không?,95.0,100.0,6.276642799377441,0.9461967945098877
+Chế độ tài sản theo thỏa thuận trước hôn nhân có hợp pháp không?,100.0,100.0,1.9182639122009277,1.8597102165222168
+Thủ tục nhận con nuôi tại Việt Nam như thế nào?,85.0,90.0,6.945988655090332,4.272778511047363
+Những trường hợp không được kết hôn theo pháp luật Việt Nam?,95.0,80.0,3.982910394668579,4.7273643016815186
+Thủ tục thay đổi họ cho con sau ly hôn?,95.0,80.0,5.153312921524048,2.32889986038208
+Quy định về quyền thăm nom con sau khi ly hôn?,95.0,85.0,4.087483882904053,5.449621200561523
+Điều kiện để nhập quốc tịch Việt Nam là gì?,90.0,85.0,4.38081431388855,2.1363956928253174
+Người nước ngoài có thể giữ hai quốc tịch khi nhập quốc tịch Việt Nam không?,95.0,75.0,2.7256157398223877,2.4582793712615967
+Quy trình từ bỏ quốc tịch Việt Nam cần những giấy tờ gì?,90.0,70.0,4.781411170959473,1.2402212619781494
+Trẻ em sinh ra tại Việt Nam có được cấp quốc tịch Việt Nam không?,95.0,90.0,2.9078824520111084,3.5164613723754883
+Thời gian xét duyệt đơn xin nhập quốc tịch mất bao lâu?,75.0,0.0,2.1845862865448,3.214106559753418
+Quy trình cấp giấy chứng nhận quốc tịch Việt Nam?,85.0,75.0,5.057142734527588,2.338989496231079
+Người Việt Nam có thể nhập quốc tịch nước ngoài mà không mất quốc tịch Việt Nam không?,90.0,85.0,3.738417387008667,1.8840086460113525
+Trường hợp nào người nước ngoài có thể nhập tịch Việt Nam mà không cần từ bỏ quốc tịch cũ?,95.0,90.0,4.5055317878723145,3.1443498134613037
+Có thể xin quốc tịch Việt Nam nếu có cha hoặc mẹ là người Việt Nam không?,100.0,80.0,2.8497414588928223,3.5101654529571533
+Có thể thay đổi quốc tịch của trẻ em theo yêu cầu của cha mẹ không?,95.0,85.0,64.74760103225708,2.818448543548584
+Điều kiện để khôi phục quốc tịch Việt Nam?,90.0,60.0,4.57569694519043,1.479623794555664
+Thủ tục cấp hộ chiếu Việt Nam lần đầu cho người đã có quốc tịch?,75.0,80.0,6.106009244918823,2.8226418495178223
+Điều kiện để công dân Việt Nam định cư ở nước ngoài được cấp lại quốc tịch?,90.0,90.0,4.2878098487854,3.2081687450408936
+Có thể từ bỏ quốc tịch Việt Nam nhưng vẫn giữ hộ khẩu không?,100.0,95.0,3.4688405990600586,1.8595106601715088
+Công dân Việt Nam có quyền từ chối nhập quốc tịch nước ngoài khi được cấp không?,100.0,90.0,33.37807846069336,1.6475093364715576
+Trường hợp nào mất quốc tịch Việt Nam mà không cần đơn từ bỏ?,95.0,65.0,2.9074506759643555,3.460245132446289
+Quy định về nhập tịch đối với người không có quốc tịch?,85.0,75.0,4.411343574523926,2.9712088108062744
+Có thể khiếu nại nếu bị từ chối nhập quốc tịch không?,85.0,80.0,4.04430627822876,3.2008659839630127
+Có thể nhập quốc tịch Việt Nam khi có vợ/chồng là người Việt không?,95.0,85.0,2.8304708003997803,1.9177746772766113
+Có thể có quốc tịch Việt Nam nếu sinh ra ở Việt Nam nhưng bố mẹ là người nước ngoài không?,100.0,75.0,3.243783473968506,14.726059198379517
+Có thể được miễn thủ tục nhập quốc tịch không?,90.0,70.0,4.450807571411133,0.9877479076385498
+Điều kiện để đăng ký kết hôn với người nước ngoài tại Việt Nam?,95.0,85.0,7.201905250549316,1.2628555297851562
+Có thể yêu cầu đổi họ cho con sau khi ly hôn và người nước ngoài tham gia không?,95.0,60.0,5.215609550476074,2.2807743549346924
+Thủ tục chuyển quốc tịch cho trẻ em khi cha mẹ là công dân Việt Nam và nước ngoài?,90.0,65.0,6.418419599533081,1.446958303451538
+Quy trình nhận con nuôi quốc tế tại Việt Nam?,90.0,90.0,7.005357503890991,1.2739572525024414
+"Chồng tôi là người nước ngoài, tôi có thể làm thủ tục kết hôn tại Việt Nam không?",95.0,90.0,6.973628759384155,1.31898832321167
+"Nếu tôi kết hôn với người nước ngoài, tôi có thể giữ quốc tịch Việt Nam không?",100.0,100.0,1.84605073928833,1.4696431159973145
+"Tôi và chồng muốn có tài sản riêng trong hôn nhân, chúng tôi cần làm gì?",95.0,85.0,5.445333003997803,2.1389808654785156
+"Chồng tôi muốn nhập quốc tịch Việt Nam, nhưng anh ấy chưa biết tiếng Việt, liệu có được không?",95.0,90.0,3.5337040424346924,4.0780651569366455
+"Khi vợ chồng ly hôn, nếu con còn nhỏ, tôi có thể yêu cầu nuôi con không?",95.0,95.0,3.752439498901367,1.5004806518554688
+"Sau khi ly hôn, tôi có thể thay đổi họ cho con không?",95.0,85.0,3.6468489170074463,1.961071252822876
+"Chúng tôi đã đăng ký kết hôn ở nước ngoài, nhưng muốn làm thủ tục kết hôn tại Việt Nam. Cần phải làm gì?",90.0,60.0,37.112300634384155,1.4294261932373047
+"Nếu tôi muốn nhận con nuôi, nhưng tôi chưa kết hôn, liệu tôi có thể nhận nuôi không?",95.0,90.0,5.034528970718384,1.3717219829559326
+"Chồng tôi là người nước ngoài, chúng tôi có thể nhận con nuôi từ Việt Nam không?",95.0,80.0,64.13184714317322,1.5360021591186523
+"Sau khi kết hôn, tôi có quyền yêu cầu thay đổi tài sản chung thành tài sản riêng không?",90.0,90.0,4.816747426986694,2.0720391273498535
+"Tôi đang sống cùng chồng người nước ngoài ở Việt Nam, tôi có quyền làm thủ tục nhập quốc tịch Việt Nam không?",95.0,75.0,3.771618604660034,1.3435816764831543
+"Khi có tranh chấp về tài sản trong hôn nhân, tòa án sẽ phân chia tài sản như thế nào?",90.0,75.0,6.130998611450195,1.5231726169586182
+"Nếu một người nước ngoài kết hôn với công dân Việt Nam, họ có thể nhập quốc tịch Việt Nam không?",95.0,90.0,3.732419967651367,1.588484287261963
+"Tôi muốn từ bỏ quốc tịch Việt Nam, có thể giữ hộ khẩu không?",100.0,85.0,2.7024312019348145,1.5416154861450195
+"Vợ chồng tôi muốn nhập quốc tịch Việt Nam, nhưng chưa biết tiếng Việt, có cần học tiếng Việt không?",95.0,70.0,3.6399025917053223,2.9326112270355225
+"Vợ chồng tôi ly hôn, tôi có quyền yêu cầu cấp dưỡng cho con không?",100.0,95.0,34.15359354019165,1.725325345993042
+"Chồng tôi là người nước ngoài, tôi có thể nhập quốc tịch Việt Nam sau khi kết hôn không?",95.0,75.0,4.601110935211182,1.696408987045288
+"Tôi và vợ đã ly hôn, liệu tôi có thể yêu cầu chia tài sản chung không?",95.0,80.0,4.591707229614258,2.3546102046966553
+"Chúng tôi đã kết hôn ở Việt Nam, nhưng muốn sống ở nước ngoài, liệu tôi có thể giữ quốc tịch Việt Nam không?",95.0,85.0,3.141777515411377,2.122951030731201
+"Chồng tôi muốn lấy quốc tịch Việt Nam, tôi có thể giúp anh ấy không?",95.0,80.0,4.106380224227905,2.360200881958008
+"Nếu tôi kết hôn với người nước ngoài, con tôi có thể có hai quốc tịch không?",95.0,90.0,33.62907266616821,1.9486939907073975
+"Chúng tôi muốn thay đổi họ cho con sau khi ly hôn, cần làm thủ tục gì?",90.0,70.0,4.821107625961304,1.6523230075836182
+"Khi vợ chồng ly hôn, nếu con dưới 3 tuổi, tôi có thể yêu cầu quyền nuôi con không?",95.0,95.0,3.457885265350342,1.6772856712341309
+"Tôi muốn kết hôn với người nước ngoài, nhưng anh ấy không biết tiếng Việt, liệu có gặp vấn đề gì không?",95.0,85.0,5.958533525466919,4.169238328933716
+"Sau khi ly hôn, tôi có thể yêu cầu thay đổi quyền giám hộ của con không?",95.0,90.0,5.260691165924072,3.910393714904785
+"Nếu tôi và vợ ly hôn, ai sẽ có quyền sở hữu nhà đất mà chúng tôi đã mua chung?",95.0,75.0,5.692890882492065,2.793269634246826
+"Tôi đã kết hôn với người nước ngoài, con chúng tôi có thể mang quốc tịch Việt Nam không?",95.0,85.0,4.128039121627808,2.566943645477295
+Chúng tôi có thể kết hôn tại Việt Nam mà không cần có giấy tờ từ nước ngoài không?,90.0,60.0,4.14870810508728,4.111084461212158
+"Chồng tôi là người nước ngoài, tôi có thể làm thủ tục nhập quốc tịch Việt Nam không?",95.0,50.0,4.025296926498413,3.4857819080352783
+"Vợ tôi là người nước ngoài, tôi có quyền yêu cầu cấp dưỡng sau khi ly hôn không?",90.0,75.0,4.292213439941406,2.4683144092559814
+"Nếu người nước ngoài muốn kết hôn với tôi, liệu họ có cần phải học tiếng Việt không?",95.0,100.0,3.083287239074707,2.288480043411255
+"Tôi muốn khôi phục quốc tịch Việt Nam, có cần phải xin lại giấy chứng nhận quốc tịch không?",90.0,85.0,4.417750120162964,3.1414601802825928
+"Chúng tôi kết hôn với người nước ngoài và sống ở Việt Nam, tôi có thể có quốc tịch của hai nước không?",85.0,75.0,4.577836275100708,2.3188648223876953
+"Sau khi ly hôn, tôi có thể yêu cầu cấp dưỡng cho con nếu cha không thực hiện nghĩa vụ không?",95.0,85.0,3.971553087234497,2.525919198989868
+Tôi có thể thay đổi họ cho con nếu cha mẹ không đồng ý không?,95.0,85.0,35.89918804168701,2.8669919967651367
+"Tôi muốn nhận con nuôi từ nước ngoài, cần làm những thủ tục gì?",90.0,85.0,4.303302764892578,2.3362667560577393
+"Chúng tôi muốn làm thủ tục kết hôn ở Việt Nam nhưng không có giấy chứng nhận độc thân từ nước ngoài, có được không?",90.0,60.0,4.444672107696533,3.5274598598480225
+"Khi vợ chồng ly hôn, có thể yêu cầu thay đổi người trực tiếp nuôi con không?",95.0,90.0,4.2168073654174805,3.726642370223999
+Con tôi có thể yêu cầu cấp dưỡng từ tôi sau khi tôi ly hôn không?,95.0,95.0,4.206411123275757,3.5110907554626465
+"Tình huống: Công ty E và công ty F có một tranh chấp thương mại và đã quyết định giải quyết thông qua trọng tài. Tuy nhiên, trong quá trình trọng tài, một trong những bên đã vi phạm các quy định của trọng tài. Câu hỏi: Những hậu quả pháp lý nào có thể xảy ra khi một bên vi phạm các quy định của trọng tài trong quá trình giải quyết tranh chấp?",85.0,80.0,6.1075568199157715,1.4707694053649902
+"Tình huống: Một quản tài viên đã không tuân thủ các quy định về vệ sinh và an toàn trong quá trình chuẩn bị cho một tang lễ, dẫn đến sự lây lan của một căn bệnh truyền nhiễm. Câu hỏi: Quản tài viên có thể bị truy cứu trách nhiệm hình sự không và nếu có, theo điều khoản nào của Bộ luật Hình sự?",85.0,75.0,6.8745458126068115,1.6526117324829102
+Tình huống: Một quản tài viên đã từ chối cung cấp dịch vụ cho một gia đình vì lý do cá nhân. Câu hỏi: Việc từ chối cung cấp dịch vụ có phải là vi phạm pháp luật không và quản tài viên có thể phải đối mặt với hậu quả pháp lý nào?,85.0,70.0,5.741232395172119,3.7764463424682617
+"Tình huống: Công ty A và công ty B có một tranh chấp thương mại liên quan đến việc giao hàng trễ. Công ty A muốn giải quyết tranh chấp thông qua hòa giải thương mại thay vì đi tới tòa án. Câu hỏi: Trong trường hợp này, công ty A cần chuẩn bị những gì để tiến hành quá trình hòa giải thương mại?",90.0,75.0,5.996001482009888,2.011650323867798
+"Tình huống: Sau khi hoàn thành quá trình hòa giải thương mại, công ty C nhận ra rằng họ không hài lòng với kết quả. Câu hỏi: Công ty C có quyền nào để kháng cáo hoặc yêu cầu xem xét lại kết quả hòa giải thương mại?",95.0,50.0,4.340968132019043,2.710785150527954
+"Tình huống: Trong quá trình hòa giải thương mại giữa công ty D và công ty E, một trong những bên đã vi phạm các điều khoản của thỏa thuận hòa giải. Câu hỏi: Điều gì sẽ xảy ra nếu một bên vi phạm các điều khoản của thỏa thuận hòa giải trong quá trình hòa giải thương mại?",75.0,75.0,5.464721918106079,1.5977237224578857
+"Tình huống: Bạn là một doanh nghiệp nhỏ mới thành lập và muốn hiểu rõ hơn về quy định pháp luật liên quan đến việc thuê nhân viên.Câu hỏi: Theo quy định của pháp luật Việt Nam, những điều kiện nào cần được đáp ứng khi thuê một nhân viên?",95.0,75.0,7.105041027069092,1.9749999046325684
+"Tình huống: Bạn là một người dân tình cờ phát hiện ra một hoạt động kinh doanh trái phép trong khu vực của mình.Câu hỏi: Trong trường hợp phát hiện hoạt động kinh doanh trái phép, bạn có quyền và nghĩa vụ gì theo quy định của pháp luật?",95.0,90.0,3.798611640930176,1.8505778312683105
+"Tình huống: Bạn là một người tiêu dùng đã mua một sản phẩm hỏng từ một cửa hàng trực tuyến và muốn biết quyền lợi của mình.Câu hỏi: Khi mua hàng trực tuyến, nếu sản phẩm bị hỏng hoặc không giống như mô tả, bạn có quyền được đổi trả hàng theo quy định của pháp luật như thế nào?",75.0,70.0,5.7619030475616455,2.905385971069336
+"Tình huống: Anh Bình, người có quyền nuôi con sau khi ly hôn, muốn cho con gái mình, bé Nhi, được theo học ở nước ngoài. Tuy nhiên, cựu vợ anh không đồng ý với quyết định này. Anh Bình có quyền đưa ra quyết định này mà không cần sự đồng ý của cựu vợ không?",90.0,75.0,4.564720869064331,1.4717552661895752
+"Nếu tôi muốn nhập quốc tịch Việt Nam, tôi cần đáp ứng điều kiện gì?",95.0,70.0,3.913463592529297,1.5755603313446045
+Tổng kết,92.61363636363636,80.22727272727273,8.264919706366278,2.480790842663158
