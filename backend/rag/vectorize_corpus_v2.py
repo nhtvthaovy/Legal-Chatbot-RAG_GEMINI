@@ -19,24 +19,11 @@ def clean_metadata(metadata):
 
 def process_item(item):
     if "filename" in item and "content" in item:
-        if not item.get("content", "").strip():
-            return None  # Bỏ qua nếu content rỗng
-        metadata = clean_metadata({"filename": item.get("filename", ""), "vbqppl_link": item.get("vbqppl_link", "") , "ten": item.get("ten")})
-        content = item.get("content", "")
+
     elif "noidung" in item and "ten" in item and "vbqppl" in item:
-        content = f"{item.get('noidung', '')} {item.get('ten', '')} {item.get('vbqppl', '')}"
-        if not content.strip():
-            return None  # Bỏ qua nếu content rỗng
-        metadata = clean_metadata({
-            "mapc": item.get("mapc"), "demuc_id": item.get("demuc_id"), "chuong_id": item.get("chuong_id"),
-            "chude_id": item.get("chude_id"), "chimuc": item.get("chimuc"), "vbqppl_link": item.get("vbqppl_link"),
-            "stt": item.get("stt"), "ten": item.get("ten"), "vbqppl": item.get("vbqppl")
-        })
+
     elif "noidung" in item:
-        content = item.get("noidung", "")
-        if not content.strip():
-            return None  # Bỏ qua nếu content rỗng
-        metadata = clean_metadata({"id": item.get("id")})
+
     else:
         print(f"Bỏ qua mục không hợp lệ: {item}")
         return None  # Bỏ qua nếu không khớp định dạng
