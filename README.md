@@ -9,6 +9,9 @@ python app.py
 cd frontend
 npm run dev
 
+![Legal Chatbot Demo](https://raw.githubusercontent.com/nhtvthaovy/Legal-Chatbot-RAG_GEMINI/main/image.png)
+
+
 # Legal Chatbot Project
 
 ## Overview
